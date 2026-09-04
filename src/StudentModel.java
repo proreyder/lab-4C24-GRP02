@@ -1,7 +1,7 @@
 public class StudentModel {
 
     public void model() {
-        // TO DO
+        System.out.println("StudentModel actualizado");
     }
 
 }
